@@ -132,7 +132,7 @@
 - (void)viewDidLoad {
     [super viewDidLoad];
 
-    [self loadObjects];
+    //[self loadObjects];
 }
 
 - (void)viewDidLayoutSubviews {
